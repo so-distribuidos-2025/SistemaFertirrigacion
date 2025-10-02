@@ -1,4 +1,4 @@
-package Interfaces;
+package com.sistdist.interfaces;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
